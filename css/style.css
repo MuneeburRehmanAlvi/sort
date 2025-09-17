@@ -78,7 +78,7 @@ img {
 }
 
 .general-heading {
-  font-size: 60px;
+  font-size: 36px;
   font-weight: 600;
   line-height: normal;
   color: #222222;
@@ -175,6 +175,70 @@ header .navbar {
 }
 
 /* Banner End */
+
+/* Content strat */
+
+.content {
+	padding: 0 25px;
+}
+
+/* Services start */
+
+.services {
+	padding: 20px 0;
+}
+
+.services .services-content {
+	text-align: center;
+}
+
+.services-content .services-paragraph {
+	font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    color: #222222;
+}
+
+.services .services-card {
+	padding: 40px 0;
+}
+
+.services-card .services-card-content {
+	text-align: left;
+	background-color: #F8F9FD;
+	padding: 16px 16px 27px 16px;
+	box-shadow: 0px 41px 83px -15px rgba(85, 105, 135, 0.2);
+    border-radius: 13px;
+}
+
+.services-card-content .card-icon {
+	width: 55px;
+	height: 55px;
+	background-color: #222222;
+	border-radius: 50%;
+	padding: 12px;
+	text-align: center;
+	margin-bottom: 16px;
+}
+
+.services-card-content .card-heading {
+	font-size: 20px;
+	font-weight: 600;
+	line-height: normal;
+	color: #000000;
+	margin-bottom: 16px;
+}
+
+.services-card-content .card-pargraph {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: normal;
+	color: #222222;
+}
+
+/* Services end */
+
+/* Content end */
 
 /* Footer start */
 /* Footer end */
